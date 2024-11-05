@@ -1,25 +1,25 @@
 const profileData = {
   title: "Resume",
-  name: "Raphew Karim Issah",
-  sub_title: "System Administrator, and DevOps Engineer",
+  name: "Frederick Dodzi Mensah",
+  sub_title: "LinuxSystem Administrator, and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Junior Software Engineer with 1 years of FullStack development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective communicator and collaborator dedicated to continuous learning and innovation..`,
+    intro: `Experienced Linux System Administrator with over [4 years] of hands-on expertise in managing and optimizing Linux/RedHat, Ubuntu & Mac OS environments. Skilled in scripting (Shell, yaml, java,Python, Ansible) and proficient with DevOps tools such as Jenkins, Nagios, Datadog, and GitHub. Demonstrated ability to streamline system administration processes, debug issues efficiently, and implement effective solutions in hybrid and cloud-based environments. Strong communication skills with a proactive approach to troubleshooting and team collaboration...`,
     contact: {
-      email: "raphewkarim@gmail.com",
-      phone: "+233548470406",
-      address: "Accra-Ghana",
+      email: "mensahfrederickdodzi@gmail.com",
+      phone: "+1 5068971680",
+      address: "Fredericton-New Brunswick, Canada",
     },
   },
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/Raphew-Issah",
+      src: "https://www.linkedin.com/in/frederick-Dodzi-Mensah",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/Amraff",
+      src: "https://github.com/frederick-dmenssah",
       iconClass: "fa-brands fa-github",
     },
   ],
@@ -59,11 +59,17 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "Company 1",
-      title: "Position",
-      date: "Date",
+      organization: "Consolidated, Bank Ghana",
+      title: "Network Support Officer",
+      date: "2020-03-25 - 2023-08-20",
       details: [
-        `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
+        `~Administered and maintained Linux/RedHat systems, performing tasks such as user management, log monitoring, and troubleshooting.
+       ~ Executed scripting tasks using Shell, Python, and Ansible to automate routine administrative functions, reducing manual efforts by over 80%.
+        ~Managed infrastructure using DevOps practices, configuring and optimizing Jenkins, Nagios, and Datadog for continuous integration and monitoring.
+        ~Leveraged AWS services (EKS, EC2, S3, VPC) to deploy and manage scalable and secure cloud environments.
+        ~Monitored system health and security, using Splunk for real-time data analysis and threat detection.
+       ~ Followed Standard Operating Procedures (SOP) to efficiently resolve issues, ensuring minimal downtime and seamless operations.
+       ~ part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
         <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
         I ensured end-to-end responsibility, focusing on <strong>pixel-perfect UI</strong>, smooth UX, user testing, <strong>A/B experiments</strong>, cross-platform compatibility,
         and timely delivery.`,
@@ -92,9 +98,9 @@ const profileData = {
       ],
     },
     {
-      organization: "Company 4",
-      title: `Position`,
-      date: "Date",
+      organization: "Premus Solution Hub",
+      title: `System Administrator`,
+      date: "2009-07-15 - 2013-05-30",
       details: [
         `Contributed to the development of a <strong>collaborative online
         blueprint editor</strong> by translating the design mockups into reusable UI components
@@ -108,7 +114,7 @@ const profileData = {
   projects: [
     {
       title: "Restaurant Review",
-      duration: "Jun - Nov 2018",
+      duration: "Jun - Nov 2010",
       link: "https://github.com/imvpn22/restaurant-review-pwa",
       desc: `A web app to list, view and add reviews of restaurants.
       The app includes filtering based on location, cuisine, and rating.
@@ -118,7 +124,7 @@ const profileData = {
       offline support, and improved accessibility.`,
     },
     {
-      title: "WhiteBoard",
+      title: "Kastle ULS",
       duration: "Jun - Aug 2017",
       link: "https://github.com/imvpn22/whiteboard",
       desc: `A simple <strong>web-app for collaborative brainstorming sessions</strong>.
@@ -130,15 +136,15 @@ const profileData = {
   ],
   education: [
     {
-      alma: "FET, GKV, Haridwar",
-      duration: "2014 - 2018",
-      std: "B.Tech. (Computer Science & Engineering)",
+      alma: "University of New Brunswickr",
+      duration: "2021 - 2024",
+      std: "B.Computer Science",
       score: "71.00%",
     },
     {
-      alma: "Jwala Devi SVMIC, Prayagraj",
-      duration: "2011 - 2013",
-      std: "Class XI-XII (PCM)",
+      alma: "University of Ghana",
+      duration: "2003 - 2007",
+      std: "BA, Economics and Mathematics",
       score: "89.80%",
     },
   ],
